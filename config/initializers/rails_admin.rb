@@ -48,6 +48,8 @@ RailsAdmin.config do |config|
   end
 
   config.model Sale do
+    navigation_icon 'fa fa-money'
+
     create do
       field  :client
       field  :sale_date

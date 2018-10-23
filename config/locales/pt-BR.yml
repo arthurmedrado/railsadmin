@@ -9,10 +9,43 @@ pt-BR:
       client:
         one: Cliente
         other: Clientes
+      comission:
+        one: Comissão
+        other: Comissões
+      discount:
+        one: Diconto
+        other: Discontos
+      product:
+        one: Produto
+        other: Produtos
+      sale:
+        one: Venda
+        other: Vendas
+      user:
+        one: Usuário
+        other: Usuários
+
     attributes:
       client:
+        created_at: "Data de Criação"
+        updated_at: "Data de Atualização"
         name: "Nome"
         company_name: "Nome da Empresa"
+        document: "Documento"
+        notes: "Anotações"
+        phone: "Telefone"
+        address: "Endereço"
+      address:
+        country: 'País'
+        city: 'Cidade'
+        state: 'Estado'
+        neighborhood: 'Bairro'
+        street: 'Rua'
+        number: 'Número'
+        address_client_id: 'ID do Cliente'
+        user_id: 'ID do Usuário'
+        created_at: "Data de Criação"
+        updated_at: "Data de Atualização"
   views:
   admin:
     home:
@@ -132,6 +165,7 @@ pt-BR:
       options_for: "Opções para %{name}"
       empty_value_for_associated_objects: ""
       click_to_reverse_selection: 'Click para inverter selecção'
+      select_all_fields: 'Selecionar todos os campos'
       csv:
         header_for_root_methods: "%{name}" # 'model' is available
         header_for_association_methods: "%{name} [%{association}]"
