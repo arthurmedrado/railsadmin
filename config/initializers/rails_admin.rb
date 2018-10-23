@@ -2,6 +2,14 @@ RailsAdmin.config do |config|
 
   ### Popular gems integration
 
+  config.main_app_name = ["Representantes Comerciais", ""]
+
+  config.navigation_static_links = {
+      'OneBitCode' => 'https://onebitcode.com'
+  }
+
+  config.navigation_static_label = "Lins Úteis"
+
   # == Devise ==
   config.authenticate_with do
     warden.authenticate! scope: :user
