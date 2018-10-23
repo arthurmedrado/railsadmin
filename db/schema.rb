@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20181018222806) do
+ActiveRecord::Schema.define(version: 20181023031915) do
 
   create_table "addresses", force: :cascade do |t|
     t.string   "country"
@@ -51,12 +51,10 @@ ActiveRecord::Schema.define(version: 20181018222806) do
     t.text     "note"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["user_id"], name: "index_comissions_on_user_id"
-    t.index ["sale_id"], name: "index_comissions_on_sale_id"
   end
 
-  # add_index "comissions", ["sale_id"], name: "index_comissions_on_sale_id"
-  # add_index "comissions", ["user_id"], name: "index_comissions_on_user_id"
+  add_index "comissions", ["sale_id"], name: "index_comissions_on_sale_id"
+  add_index "comissions", ["user_id"], name: "index_comissions_on_user_id"
 
   create_table "discounts", force: :cascade do |t|
     t.string   "name"
@@ -87,6 +85,7 @@ ActiveRecord::Schema.define(version: 20181018222806) do
     t.datetime "created_at",  null: false
     t.datetime "updated_at",  null: false
     t.decimal  "price"
+    t.string   "photo"
   end
 
   create_table "sales", force: :cascade do |t|
