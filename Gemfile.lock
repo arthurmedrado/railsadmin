@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/arthurmedrado/rollincode_custom.git
+  revision: 44ad122d571ae2a3551a54cf7e1692129804512b
+  specs:
+    rails_admin_rollincode (1.2.1)
+      rails (>= 4.0, < 6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -218,6 +225,7 @@ DEPENDENCIES
   jquery-rails
   rails (= 4.2.10)
   rails_admin
+  rails_admin_rollincode!
   sass-rails (~> 5.0)
   sdoc (>= 0.4.0)
   spring

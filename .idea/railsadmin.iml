@@ -80,6 +80,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v1.0.9, RVM: ruby-2.5.1 [railsadmin]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.0.4, RVM: ruby-2.5.1 [railsadmin]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails_admin (v1.4.2, RVM: ruby-2.5.1 [railsadmin]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails_admin_rollincode (v1.2.1@5a6e39, RVM: ruby-2.5.1 [railsadmin]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v4.2.10, RVM: ruby-2.5.1 [railsadmin]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v12.3.1, RVM: ruby-2.5.1 [railsadmin]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-fsevent (v0.10.3, RVM: ruby-2.5.1 [railsadmin]) [gem]" level="application" />

@@ -5,7 +5,7 @@ RailsAdmin.config do |config|
   config.main_app_name = ["Representantes Comerciais", ""]
 
   config.navigation_static_links = {
-      'OneBitCode' => 'https://onebitcode.com'
+     'OneBitCode' => 'https://onebitcode.com'
   }
 
   config.navigation_static_label = "Lins Úteis"
@@ -47,6 +47,22 @@ RailsAdmin.config do |config|
     # history_show
   end
 
+  config.model User do
+    navigation_icon 'fa fa-users'
+  end
+
+  config.model Discount do
+    navigation_icon 'fa fa-percent'
+  end
+
+  config.model Product do
+    navigation_icon 'fa fa-cubes'
+  end
+
+  config.model Comission do
+    navigation_icon 'fa fa-percent'
+  end
+
   config.model Sale do
     navigation_icon 'fa fa-money'
 
@@ -80,6 +96,8 @@ RailsAdmin.config do |config|
   end
 
   config.model Client do
+    navigation_icon 'fa fa-user-plus'
+
     create do
       field  :name
       field  :company_name
@@ -128,16 +146,13 @@ RailsAdmin.config do |config|
     end
   end
 
-  config.model ProductQuantity do
-    visible false
-  end
-
   config.model Address do
     visible false
   end
 
-
   config.model ProductQuantity do
+    visible false
+
     edit do
       field :product
       field :quantity

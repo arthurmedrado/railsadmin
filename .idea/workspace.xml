@@ -2,6 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f25bdf09-eefb-41a1-9cad-4d46cdf916dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/rails_admin/custom/ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/.sprockets-manifest-0a7f10a10a07921131a2973da50674bb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/application-2d9b121570bca93928e412d0b797b761f25b227f7017cd85dcc7791054cf3b86.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/application-2d9b121570bca93928e412d0b797b761f25b227f7017cd85dcc7791054cf3b86.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/application-68259e24b62fb78b5cfc5dc2cd88d12b6908cffccf4e294bfb443d45ad1ae483.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/application-68259e24b62fb78b5cfc5dc2cd88d12b6908cffccf4e294bfb443d45ad1ae483.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/application-8f3fbd6f69cc65592e0c84d53cc4c32a6be57418749f6529c093d05d60d29730.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/application-8f3fbd6f69cc65592e0c84d53cc4c32a6be57418749f6529c093d05d60d29730.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979.eot.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8.ttf.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4.svg.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/aristo/images/bg_fallback-bad53cee26694a42bdba717337e2de9f997ebf3ded300b8c3ff48ac5192c1903.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/aristo/images/icon_sprite-34a30806fcba43a2effc9739cb7a370a865199a7d38bfcbc7c2474ef3ff70ded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/aristo/images/progress_bar-a2ed712d76dcffc7a06918cd389511bca2cf7bb91c12b1d865bf44c7b2c46289.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/aristo/images/slider_handles-4b523f3d1bd18af5fec23ec7d58ed85e4c7e8f4685fe85a8407e2d9017bf6484.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/aristo/images/ui-icons_222222_256x240-310ae73efc6774716f0a80ce2141565fddec51702330a8066fd5e220437ae321.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/aristo/images/ui-icons_454545_256x240-d59c6da436d1a19aa35bcbf2d400ad160f2b2568fbbfa2f9ebfc192d14025474.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/colorpicker_overlay-ba21ab85c59167b61af508e34a22ee344c97bb11454d287a47691fa2fb182856.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/colorpicker_select-980ae86d6aab751f6f67a1191d78c0fa54b533583456b905ec43b34d5806ee2d.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/custom_background-52967b595ae718ad95520b9cf2b22551fb8cb0d81a171db869b00d2b604b4976.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/custom_hex-4b1a7b08312edc3732cf30c7d8d5291abea41c64311c3d05d67a586cbe3dcf37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/custom_hsb_b-7160b5fd5c5779102cb91f771b80ef2621dabe10bf06e8359deaefece831b58b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/custom_hsb_h-df01edb80a710cdd9d9057201eaa682a8c86cd80ad6c6929f1d4a9182ad6aed3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/custom_hsb_s-9277f3fd9eb79baef2384f7b38968184fd40d631024149c7b41543b7796c0706.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/custom_indic-8ca62ee85015e67671f2312a2fead633740335f65e254d8f4c3ea29b99f62de7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/custom_rgb_b-22f2da1810cd9da18a1f93418b8f45bd3cb676aa9790ad5e1aba37779fb3ac31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/custom_rgb_g-8ab4d41c46fc26080b75eecc6f8c25d8f6db5264cf56ecc4993f86d100ebd71f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/custom_rgb_r-54289ccad89df00514d84ba6d16d1a0abc0d61de95dcfc054bf2202e238a7cb6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/custom_submit-3a57bad878f6d608b998e36acefe2325d786d4631abeecc5d400ca5c062f5ce5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/colorpicker/select2-8ddf680d1a86d603653e43f694bbb6dc1010aa81f5c0c9c87181e10e064e503b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/jquery.colorpicker-3a18b8912af93099a30d1cf8f47c1084f093d1d208863a218e28f098f64dbf78.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/jquery.colorpicker-3a18b8912af93099a30d1cf8f47c1084f093d1d208863a218e28f098f64dbf78.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/jquery.colorpicker-999f0993ea18eb982eccf8f4986b32b02375172a3ed406a34510d732589784b9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/jquery.colorpicker-999f0993ea18eb982eccf8f4986b32b02375172a3ed406a34510d732589784b9.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/multiselect/icon_sprite-34a30806fcba43a2effc9739cb7a370a865199a7d38bfcbc7c2474ef3ff70ded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/multiselect/ui-icon-circle-triangle-n-dark-bb53269e44173a496d2620bad201ca838a57b67c40b3439b5ce89345ef9e888b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/multiselect/ui-icon-circle-triangle-n-light-e7daf3169259a9fd6b8177b8e89ff2b964cd3dababd580a46d7fb4eecc07763b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/multiselect/ui-icon-circle-triangle-s-dark-2bf097798e2b1db766a16ff4f335d3fe94bd51f92dc2ddf47c8a370ba31189c0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/multiselect/ui-icon-circle-triangle-s-light-e1698d37f37f7db85ce6736810a34b1a229306be8a3f3be156fbaa47dd6cd160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-39e46d73b72f9348f47198ff4fa531476e8313444fe4446b6e9191e5a81f1c19.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-39e46d73b72f9348f47198ff4fa531476e8313444fe4446b6e9191e5a81f1c19.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-55f99f243578a6834ab51d15ef5bac248c40bb0618e70b6cf8b38482c6726002.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-55f99f243578a6834ab51d15ef5bac248c40bb0618e70b6cf8b38482c6726002.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-b026961f1ccc58a671ae48ef5f88e433a932a98da4516bb6f30db4b0fee95ba2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-b026961f1ccc58a671ae48ef5f88e433a932a98da4516bb6f30db4b0fee95ba2.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-e50f160f875d235cf65aac6d83705b2d90e38659f33afe4e6a80d1a6ccf400e9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-e50f160f875d235cf65aac6d83705b2d90e38659f33afe4e6a80d1a6ccf400e9.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-e882e2a7123f52f73dd49538e0b6e3433508cf89db17a8378f37aae99a3925de.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-e882e2a7123f52f73dd49538e0b6e3433508cf89db17a8378f37aae99a3925de.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-f97d7719503c2587826f42ec442d8910d2763990c27e85f3c59a8dfb8a96c725.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/rails_admin/rails_admin-f97d7719503c2587826f42ec442d8910d2763990c27e85f3c59a8dfb8a96c725.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/railsadmin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/railsadmin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/initializers/rails_admin.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/rails_admin.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -17,7 +80,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/railsadmin@Development__railsadmin.rcov" NAME="Development: railsadmin Coverage Results" MODIFIED="1540320979089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="railsadmin" />
+    <SUITE FILE_PATH="coverage/railsadmin@Development__railsadmin.rcov" NAME="Development: railsadmin Coverage Results" MODIFIED="1540326180664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="railsadmin" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -46,35 +109,39 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Gemfile" value="2" />
+          <entry key="Gemfile" value="3" />
+          <entry key="erb" value="1" />
+          <entry key="js" value="1" />
           <entry key="md" value="2" />
-          <entry key="rb" value="27" />
+          <entry key="rb" value="31" />
           <entry key="xml" value="1" />
           <entry key="yml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="Ruby" value="29" />
+          <entry key="RHTML" value="1" />
+          <entry key="Ruby" value="34" />
           <entry key="XML" value="1" />
           <entry key="YAML" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Gemfile" value="51" />
+          <entry key="Gemfile" value="69" />
           <entry key="md" value="148" />
-          <entry key="rb" value="296" />
-          <entry key="txt" value="301" />
+          <entry key="rb" value="529" />
+          <entry key="txt" value="319" />
           <entry key="yml" value="445" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="148" />
-          <entry key="PLAIN_TEXT" value="301" />
-          <entry key="Ruby" value="347" />
+          <entry key="PLAIN_TEXT" value="319" />
+          <entry key="Ruby" value="598" />
           <entry key="YAML" value="445" />
         </counts>
       </usages-collector>
@@ -92,8 +159,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/initializers/rails_admin.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-120">
-              <caret line="152" column="5" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -102,7 +169,57 @@
         <entry file="file://$PROJECT_DIR$/config/locales/pt-BR.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="52" column="15" lean-forward="true" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+              <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/application.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/rails_admin/custom/ui.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/client.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -113,6 +230,12 @@
     <findStrings>
       <find>comission</find>
       <find>Campos associados com</find>
+      <find>&quot;btn cancel-action&quot;</find>
+      <find>cancel-action</find>
+      <find>Product quantity</find>
+      <find>user</find>
+      <find>fa-mone</find>
+      <find>product</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -143,13 +266,15 @@
         <option value="$PROJECT_DIR$/app/models/sale.rb" />
         <option value="$PROJECT_DIR$/db/schema.rb" />
         <option value="$PROJECT_DIR$/app/models/ability.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/models/product.rb" />
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/config/environments/test.rb" />
         <option value="$PROJECT_DIR$/config/locales/devise.pt-BR.yml" />
         <option value="$PROJECT_DIR$/config/locales/pt-BR.yml" />
+        <option value="$PROJECT_DIR$/config/application.rb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/rails_admin/custom/ui.js" />
+        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/initializers/rails_admin.rb" />
       </list>
     </option>
@@ -196,25 +321,31 @@
             <path>
               <item name="railsadmin" type="b2602c69:ProjectViewProjectNode" />
               <item name="railsadmin" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="railsadmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="railsadmin" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="railsadmin" type="b2602c69:ProjectViewProjectNode" />
               <item name="railsadmin" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="environments" type="462c0819:PsiDirectoryNode" />
+              <item name="initializers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="railsadmin" type="b2602c69:ProjectViewProjectNode" />
               <item name="railsadmin" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="locales" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="railsadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="railsadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="railsadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="railsadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="rails_admin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,7 +494,7 @@
       <updated>1539888382087</updated>
       <workItem from="1539888383617" duration="1116000" />
       <workItem from="1539889509232" duration="8046000" />
-      <workItem from="1540263060680" duration="6302000" />
+      <workItem from="1540263060680" duration="11528000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1539888998513</created>
@@ -421,11 +552,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540320878688</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ordering side menu">
+      <created>1540321050764</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540321050764</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15464000" />
+    <option name="totallyTimeSpent" value="20690000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,7 +578,7 @@
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21787709" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21787709" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -525,7 +663,8 @@
     <MESSAGE value="including uploading photos" />
     <MESSAGE value="translate rails admin" />
     <MESSAGE value="insert icon and translate models and attributes" />
-    <option name="LAST_COMMIT_MESSAGE" value="insert icon and translate models and attributes" />
+    <MESSAGE value="ordering side menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="ordering side menu" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -541,13 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -604,13 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/client.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/discount.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -646,13 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
@@ -707,14 +825,55 @@
     <entry file="file://$PROJECT_DIR$/config/locales/pt-BR.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="52" column="15" lean-forward="true" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+          <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/rails_admin/custom/ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/client.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/rails_admin.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="152" column="5" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="5" />
+        <state relative-caret-position="180">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
