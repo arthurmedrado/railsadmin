@@ -51,10 +51,12 @@ ActiveRecord::Schema.define(version: 20181018222806) do
     t.text     "note"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["user_id"], name: "index_comissions_on_user_id"
+    t.index ["sale_id"], name: "index_comissions_on_sale_id"
   end
 
-  add_index "comissions", ["sale_id"], name: "index_comissions_on_sale_id"
-  add_index "comissions", ["user_id"], name: "index_comissions_on_user_id"
+  # add_index "comissions", ["sale_id"], name: "index_comissions_on_sale_id"
+  # add_index "comissions", ["user_id"], name: "index_comissions_on_user_id"
 
   create_table "discounts", force: :cascade do |t|
     t.string   "name"
