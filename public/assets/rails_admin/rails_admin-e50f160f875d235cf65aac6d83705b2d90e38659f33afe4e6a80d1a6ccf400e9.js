@@ -32088,7 +32088,7 @@ return $.ui.autocomplete;
               ...\
             </div>\
             <div class="modal-footer">\
-              <a href="#" class="btn cancel-action">...</a>\
+              <a href="#" class="btn btn-default cancel-action">...</a>\
               <a href="#" class="btn btn-primary save-action">...</a>\
             </div>\
             </div>\
